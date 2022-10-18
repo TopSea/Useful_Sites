@@ -19,9 +19,9 @@ name: TopSea
 description: >- # this means to ignore newlines until "baseurl:"
   一些有用的网站。
 keywords: [Your keywords]
-baseurl: "/Useful_Sites" # the subpath of your site, e.g. /blog
-url: "https://topsea.top/Useful_Sites" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "topsea.top" # the domain name for your site, e.g. example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://site.topsea.top" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "site.topsea.top" # the domain name for your site, e.g. example.com
 language: zh-cn
 # Supported languages list:
 # en: English
