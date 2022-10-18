@@ -1,0 +1,52 @@
+---
+layout: post
+title: "编程常用网站"
+date: 2022-10-18
+last_modified_at: 2022-10-18
+categories: [编程常用网站]
+tags: [编程]
+---
+**游戏引擎**   
+[Unity官方学习平台][learn_unity]    
+[Godot游戏引擎官网][godotengine]    
+
+***
+**OpenGL**   
+[Shader工厂][shadertoy]    
+[Shadered][shadered] : 免费开源且强大的shader编辑器，也可在线编辑shader。    
+
+***
+**IDE**   
+[Atom文本编辑器][atom]       
+
+***
+**文档**   
+[Markdown][markdown] : Markdown中文教程。   
+[Jekyll][docs_jekyll] : Jekyll中文文档。    
+[Java官方文档][docs_java]    
+[JVM底层原理][docs_jvm]
+[CppReference][cppreference] : C/C++参考手册。     
+[CmakeReference][docs_cmake] : Cmake参考文档。      
+
+***
+**镜像站**   
+[阿里云Maven仓库][mvn_aliyun]    
+[清华大学镜像站][mirrors_tsinghua]    
+[中国科学技术大学镜像站][mirrors_ustc]    
+
+
+
+[learn_unity]: https://learn.unity.com/
+[godotengine]: https://godotengine.org/
+[docs_java]: https://docs.oracle.com/en/java/
+[docs_jvm]: https://doocs.gitee.io/jvm/
+[shadertoy]: https://www.shadertoy.com/
+[shadered]: https://shadered.org/
+[mvn_aliyun]: https://developer.aliyun.com/mvn/guide
+[mirrors_tsinghua]: https://mirrors.tuna.tsinghua.edu.cn/
+[mirrors_ustc]: https://mirrors.ustc.edu.cn/
+[atom]: https://atom.io/
+[markdown]: https://markdown.com.cn/
+[docs_jekyll]: http://jekyllcn.com/docs/home/
+[cppreference]: https://zh.cppreference.com/
+[docs_cmake]: https://cmake.org/documentation/

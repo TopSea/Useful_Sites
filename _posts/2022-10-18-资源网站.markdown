@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "资源网站"
+date:   2022-10-18
+last_modified_at: 2022-10-18
+categories: [资源网站]
+tags: [资源]
+---
+
+ [果核剥壳][ghxi] : 破解软件下载   
+ [Rutracker][rutracker] : 俄罗斯最大资源网站。     
+ [MSDN][msdn_itellyou] : 系统和软件下载。   
+ [MSDN][next_itellyou] : MSDN新网址。    
+
+ [Pixabay][pixabay] : 免费正版高清图片素材（现在还有视频和音频特效）。    
+ [Freesound][freesound] : 免费的音频特效。    
+
+ [模之屋][aplaybox] : 专业模型创作分享社区。    
+
+
+[ghxi]: https://www.ghxi.com/
+[rutracker]: https://rutracker.net/forum/index.php
+[msdn_itellyou]: https://msdn.itellyou.cn/
+[next_itellyou]: https://next.itellyou.cn/
+[pixabay]: https://pixabay.com/zh/
+[aplaybox]: https://www.aplaybox.com/
+[freesound]: https://freesound.org/

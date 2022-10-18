@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Useful_Sites
+title: Useful Sites
 email: cgbdyw@qq.com
 name: TopSea
 description: >- # this means to ignore newlines until "baseurl:"
   一些有用的网站。
 keywords: [Your keywords]
 baseurl: "/Useful_Sites" # the subpath of your site, e.g. /blog
-url: "https://topsea.top" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://topsea.top/Useful_Sites" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "topsea.top" # the domain name for your site, e.g. example.com
 language: zh-cn
 # Supported languages list:

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "娱乐网站"
+date:   2022-10-18
+last_modified_at: 2022-10-18
+categories: [娱乐网站]
+tags: [网站]
+---
+
+ [哔哩哔哩][bilibili]    
+ [油管][youtube]     
+ [米游社][bbs_mihoyo]    
+ [抖音][douyin]
+
+[bilibili]: https://www.bilibili.com/
+[youtube]: https://www.youtube.com/
+[bbs_mihoyo]: https://bbs.mihoyo.com/ys
+[douyin]: https://www.douyin.com/
