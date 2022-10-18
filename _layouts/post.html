@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="container-post">
+<article class="container-post" xmlns="http://www.w3.org/1999/html">
   <div class="post-title">
     <h1>{{ page.title }}</h1>
   </div>
@@ -12,6 +12,10 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <div class="post-info">
     <div class="post-date">
       {{ site.data.lang[site.language].post_write_date }}{{ page.date | date: "%Y-%m-%d" }}{% if page.last_modified_at %}, {{ site.data.lang[site.language].post_update_date }}{{ page.last_modified_at | date: "%Y-%m-%d" }}{% endif %}.
@@ -31,12 +35,12 @@ layout: default
     <div class="post-tools">
       {% if page.next %}
       <div>
-        <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ page.next.url }}">{{ page.next.title }}</a>
+        <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
       </div>
       {% endif %}
       {% if page.previous %}
       <div>
-        <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+        <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title }}</a>
       </div>
       {% endif %}
     </div>

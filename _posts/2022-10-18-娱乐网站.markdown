@@ -4,13 +4,17 @@ title:  "娱乐网站"
 date:   2022-10-18
 last_modified_at: 2022-10-18
 categories: [娱乐网站]
-tags: [网站]
+tags: [娱乐]
 ---
+**视频**   
+[哔哩哔哩][bilibili]    
+[油管][youtube]     
+[抖音][douyin]
 
- [哔哩哔哩][bilibili]    
- [油管][youtube]     
- [米游社][bbs_mihoyo]    
- [抖音][douyin]
+___
+
+**游戏**   
+[米游社][bbs_mihoyo]    
 
 [bilibili]: https://www.bilibili.com/
 [youtube]: https://www.youtube.com/
