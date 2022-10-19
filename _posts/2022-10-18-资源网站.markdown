@@ -2,26 +2,28 @@
 layout: post
 title:  "资源网站"
 date:   2022-10-18
-last_modified_at: 2022-10-18
+last_modified_at: 2022-10-19
 categories: [资源网站]
 tags: [资源]
 ---
 **软件**   
-[果核剥壳][ghxi] : 破解软件下载   
-[Rutracker][rutracker] : 俄罗斯最大资源网站。     
-[MSDN][msdn_itellyou] : 系统和软件下载。   
-[MSDN][next_itellyou] : MSDN新网址。    
+[果核剥壳][ghxi]{:target="_blank"} : 破解软件下载   
+[Rutracker][rutracker]{:target="_blank"} : 俄罗斯最大资源网站。     
+[MSDN][msdn_itellyou]{:target="_blank"} : 系统和软件下载。   
+[MSDN][next_itellyou]{:target="_blank"} : MSDN新网址。    
 
 ___
 
 **影像音频**   
-[Pixabay][pixabay] : 免费正版高清图片素材（现在还有视频和音频特效）。    
-[Freesound][freesound] : 免费的音频特效。    
+[Pixabay][pixabay]{:target="_blank"} : 免费正版高清图片素材（现在还有视频和音频特效）。    
+[Pexels][pexels]{:target="_blank"} : 免费素材图片。    
+[Pngimg][pngimg]{:target="_blank"} : 透明背景（无背景）的png图片。    
+[Freesound][freesound]{:target="_blank"} : 免费的音频特效。    
 
 ___
 
 **3D模型**   
-[模之屋][aplaybox] : 专业模型创作分享社区。    
+[模之屋][aplaybox]{:target="_blank"} : 专业模型创作分享社区。    
 
 
 [ghxi]: https://www.ghxi.com/
@@ -31,3 +33,5 @@ ___
 [pixabay]: https://pixabay.com/zh/
 [aplaybox]: https://www.aplaybox.com/
 [freesound]: https://freesound.org/
+[pexels]: https://www.pexels.com/
+[pngimg]: https://pngimg.com/

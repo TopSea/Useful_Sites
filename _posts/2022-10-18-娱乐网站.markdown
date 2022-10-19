@@ -2,19 +2,19 @@
 layout: post
 title:  "娱乐网站"
 date:   2022-10-18
-last_modified_at: 2022-10-18
+last_modified_at: 2022-10-19
 categories: [娱乐网站]
 tags: [娱乐]
 ---
 **视频**   
-[哔哩哔哩][bilibili]    
-[油管][youtube]     
-[抖音][douyin]
+[哔哩哔哩][bilibili]{:target="_blank"}    
+[油管][youtube]{:target="_blank"}     
+[抖音][douyin]{:target="_blank"}
 
 ___
 
 **游戏**   
-[米游社][bbs_mihoyo]    
+[米游社][bbs_mihoyo]{:target="_blank"}     
 
 [bilibili]: https://www.bilibili.com/
 [youtube]: https://www.youtube.com/

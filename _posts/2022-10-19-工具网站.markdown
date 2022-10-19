@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "工具网站"
+date:   2022-10-19
+last_modified_at: 2022-10-19
+categories: [工具网站]
+tags: [工具]
+---
+**日常**   
+[有道翻译][youdao]{:target="_blank"}    
+[Diagrams][diagrams]{:target="_blank"} : 在线画思维导图     
+[草料二维码][cli]{:target="_blank"}
+
+___
+
+**站长**   
+[翡翠云工具][feitsui]{:target="_blank"} : Ping各大厂商服务器     
+
+[youdao]: https://fanyi.youdao.com/
+[diagrams]: https://www.diagrams.net/
+[cli]: https://cli.im/
+[feitsui]: https://cloud.feitsui.com/

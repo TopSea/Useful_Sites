@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "编程经验网站"
+date:   2022-10-19
+last_modified_at: 2022-10-19
+categories: [编程经验网站]
+tags: [编程经验]
+---
+**设计**   
+[bezierMaker][bezierMaker]{:target="_blank"} : 在线画贝塞尔曲线      
+
+___
+
+**库**   
+[Jitpack][jitpack]{:target="_blank"} : 发布JVM和Android的库     
+
+[bezierMaker]: https://aaaaaaaty.github.io/bezierMaker.js/playground/playground.html
+[jitpack]: https://jitpack.io/
