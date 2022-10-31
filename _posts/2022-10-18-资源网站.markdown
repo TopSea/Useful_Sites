@@ -2,7 +2,7 @@
 layout: post
 title:  "资源网站"
 date:   2022-10-18
-last_modified_at: 2022-10-19
+last_modified_at: 2022-10-31
 categories: [资源网站]
 tags: [资源]
 ---
@@ -25,6 +25,19 @@ ___
 **3D模型**   
 [模之屋][aplaybox]{:target="_blank"} : 专业模型创作分享社区。    
 
+___
+
+**Blender创作常用资源**   
+[cgbookcase][aplaybox]{:target="_blank"} : 遵循 CC0 1.0 协议的材质的分享网站。    
+[Poly Haven][polyhaven]{:target="_blank"} : 遵循 CC0 协议的天空贴图、材质和模型的分享网站。    
+[Sketchfab][sketchfab]{:target="_blank"} : 3D模型平台。    
+
+___
+
+**艺术文化**   
+[故宫博物馆][dpm]{:target="_blank"}     
+[中国国家地理][dili360]{:target="_blank"}     
+
 
 [ghxi]: https://www.ghxi.com/
 [rutracker]: https://rutracker.net/forum/index.php
@@ -35,3 +48,8 @@ ___
 [freesound]: https://freesound.org/
 [pexels]: https://www.pexels.com/
 [pngimg]: https://pngimg.com/
+[cgbookcase]: https://www.cgbookcase.com/
+[polyhaven]: https://polyhaven.com/
+[sketchfab]: https://sketchfab.com/
+[dpm]: https://www.dpm.org.cn/Home.html
+[dili360]: http://m.dili360.com/
