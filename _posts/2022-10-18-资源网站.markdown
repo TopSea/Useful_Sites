@@ -28,7 +28,7 @@ ___
 ___
 
 **Blender创作常用资源**   
-[cgbookcase][aplaybox]{:target="_blank"} : 遵循 CC0 1.0 协议的材质的分享网站。    
+[cgbookcase][cgbookcase]{:target="_blank"} : 遵循 CC0 1.0 协议的材质的分享网站。    
 [Poly Haven][polyhaven]{:target="_blank"} : 遵循 CC0 协议的天空贴图、材质和模型的分享网站。    
 [Sketchfab][sketchfab]{:target="_blank"} : 3D模型平台。    
 
