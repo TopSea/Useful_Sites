@@ -2,7 +2,7 @@
 layout: post
 title:  "资源网站"
 date:   2022-10-18
-last_modified_at: 2022-10-31
+last_modified_at: 2022-11-19
 categories: [资源网站]
 tags: [资源]
 ---
@@ -31,6 +31,7 @@ ___
 [cgbookcase][cgbookcase]{:target="_blank"} : 遵循 CC0 1.0 协议的材质的分享网站。    
 [Poly Haven][polyhaven]{:target="_blank"} : 遵循 CC0 协议的天空贴图、材质和模型的分享网站。    
 [Sketchfab][sketchfab]{:target="_blank"} : 3D模型平台。    
+[Mixamo][mixamo]{:target="_blank"} : 3D人物模型动画。    
 
 ___
 
@@ -53,3 +54,4 @@ ___
 [sketchfab]: https://sketchfab.com/
 [dpm]: https://www.dpm.org.cn/Home.html
 [dili360]: http://m.dili360.com/
+[mixamo]: https://www.mixamo.com/#/
